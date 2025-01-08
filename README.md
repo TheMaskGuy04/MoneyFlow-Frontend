@@ -1,17 +1,22 @@
-MoneyFlow 💸
+# MoneyFlow 💸
+
 An intuitive expense tracker designed to help you monitor spending habits, analyze expenses visually, and stay informed with monthly reports.
 
-Features 🌟
-Track Spending Habits
+## Features 🌟
 
-Add new expenses and view past transactions.
-Pie Chart Analytics
+1. **Track Spending Habits**
 
-Visualize your expenses with a categorized pie chart.
-Monthly Reports
+   - Add new expenses and view past transactions.
 
-Get detailed expense summaries emailed every month.
-Tech Stack 🛠️
-Frontend: React.js, Tailwind CSS (deployed on Vercel)
-Backend: Node.js, Express.js (deployed on Render)
-Database: MongoDB Atlas
+2. **Pie Chart Analytics**
+
+   - Visualize your expenses with a categorized pie chart.
+
+3. **Monthly Reports**
+   - Get detailed expense summaries emailed every month.
+
+## Tech Stack 🛠️
+
+- **Frontend**: React.js, Tailwind CSS (deployed on [Vercel](https://vercel.com))
+- **Backend**: Node.js, Express.js (deployed on [Render](https://render.com))
+- **Database**: MongoDB Atlas
